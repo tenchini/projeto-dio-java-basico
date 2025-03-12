@@ -1,2 +1,2 @@
 # projeto-dio-java-basico
-Entrega do projeto simples da DIO para o curso de Java Básico
+Entrega do desafio de java básico da DIO para o bootcamp Bradesco.
